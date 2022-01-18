@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on graduating from App Academy.
-- 🌱 I’m currently learning more about React apps!
+- 🌱 I’m currently learning Python!
 - 👯 I’m open to collaborate with other developers & engineers.
 - 💬 Ask me about anything! 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alexander-gangemi/)!
