@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything! 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alexander-gangemi/)!
 - ⚡ Fun fact: Former enlisted sailor in the U.S. Navy. Trained in aspects of cyberwarfare.
+- ✨ [Portfolio](https://xandalf.me/#)
