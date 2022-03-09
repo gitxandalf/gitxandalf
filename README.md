@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently graduating from App Academy.
-- 🌱 I’m currently building my web presence!
 - 👯 I’m open to collaborate with other developers & engineers.
 - 💬 Ask me about anything! 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alexander-gangemi/)!
